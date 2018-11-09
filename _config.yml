@@ -1,19 +1,19 @@
 # Site settings
-title: 맹개발의 블로그 Maeng-dev's Blog
-url: "http://yunho0130.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+title: 김응주의 블로그 (상명대학교 경영빅데이터분석)
+url: "https://eungjukim.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 timezone: Asia/Seoul
 description: >
   description
 
 # Your information
-email: yunho0130@gmail.com
-author: 맹개발
+email: mikejuung@gmail.com
+author: 김응주
 # avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-avatar: "//github.com/yunho0130/yunho0130.github.io/blob/master/_jpg/yunhomaeng.png"
-profile: <br> 겸손하게 하루하루 배운 것들을 나누는 공간
+avatar: "https://avatars1.githubusercontent.com/u/42957465?s=400&u=775738aa9beca5fb8416bb539732c19774267ef2&v=4"
+profile: <br> 상명대학교 경영빅데이터분석 강의 내용을 올리는 곳입니다.
 #twitter_username: twitter_username
-github_username:  yunho0130
+github_username:  eungjukim
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
