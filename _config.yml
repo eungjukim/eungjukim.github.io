@@ -18,6 +18,8 @@ github_username:  eungjukim
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
 disqus_shortname: eungju kim   # get one: https://disqus.com/admin/signup/
+# Google analytics
+g-analytics: UA-129119211-1
 #duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 permalink: /archivers/:title
